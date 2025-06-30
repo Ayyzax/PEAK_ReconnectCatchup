@@ -1,0 +1,9 @@
+{
+    "name": "Reconnect_Catchup",
+    "website_url": "https://github.com/Ayyzax/PEAK_ReconnectCatchup",
+    "version_number": "1.0.0",
+    "description": "Mod to catchup players joining mid-session.",
+    "dependencies": [
+        "BepInEx-BepInExPack_PEAK-5.4.2403"
+    ]
+}
